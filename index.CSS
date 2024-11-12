@@ -1,24 +1,2 @@
-/* Corps de la page */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #fff7e6; /* couleur de fond légère pour adoucir */
-    color: #333;
-    margin: 0;
-    padding: 0;
-  }
-  
-  /* Entête */
-  header {
-    background-color: #ffc107; /* jaune vif pour l'entête */
-    padding: 20px;
-    text-align: center;
-    color: #ffffff;
-  }
-  
-  header h1 {
-    font-size: 2em;
-    margin: 0;
-  }
-  
-  /*
+
   
